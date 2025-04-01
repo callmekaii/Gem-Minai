@@ -34,7 +34,7 @@ namespace DiscordBot
             //This thingy is going to handle the commands
             var commandsConfig = new CommandsNextConfiguration()
             {
-                StringPrefixes = new string[] { "!" },
+                StringPrefixes = new string[] { "hey ", "!", ""},
                 EnableDms = true,
                 EnableMentionPrefix = true,
                 DmHelp = true

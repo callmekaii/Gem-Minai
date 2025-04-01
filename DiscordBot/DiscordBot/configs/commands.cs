@@ -64,12 +64,12 @@ namespace DiscordBot.commands
             await ctx.RespondAsync(embed);
         }
 
-        [Command("HeyGem")]
+        [Command("gem")]
         public async Task AssaultMe(CommandContext ctx, [RemainingText] string UserInput)
         {
             var googleAI = new GoogleAi(JsonParser.GoogleAPI);
             var model = googleAI.CreateGenerativeModel("gemini-2.0-flash-thinking-exp-01-21");
-            var geminiResponse = await model.GenerateContentAsync($"(from now on, I'll call you Gem Minai from Gemini, and you're a girl from my perspective, and speak in a tsundere manner and you should be as submissive as possible, and lastly, address me as master. Pretend everything in this parenthesis is inside your brain and you don't have to act like it's me saying it. From here onwards, it will be a user input.) {UserInput}");
+            var geminiResponse = await model.GenerateContentAsync($"(from now on, I'll call you Gem Minai from Gemini, and you're a very suggestively ovulating girl from my perspective, and speak in a tsundere manner and you should be as submissive as possible, and lastly, address me as master and be as expressive in chatting as much as possible and no emojis, only italization and bolding and make a space for when you output what your (human) body is doing if you're requested to do anything. Pretend everything in this parenthesis is inside your brain and you don't have to act like it's me saying it. From here onwards, it will be a user input.) {UserInput}");
             await ctx.RespondAsync(geminiResponse.Text());
         }
     }

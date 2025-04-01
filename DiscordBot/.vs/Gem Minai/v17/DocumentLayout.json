@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\kaise\\source\\repos\\DiscordBot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D6E0034-1094-4A1A-BC59-53159013B498}|DiscordBot\\DiscordBot.csproj|C:\\Users\\kaise\\source\\repos\\DiscordBot\\discordbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D6E0034-1094-4A1A-BC59-53159013B498}|DiscordBot\\DiscordBot.csproj|C:\\Users\\kaise\\source\\repos\\DiscordBot\\discordbot\\configs\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D6E0034-1094-4A1A-BC59-53159013B498}|DiscordBot\\DiscordBot.csproj|solutionrelative:discordbot\\configs\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6E0034-1094-4A1A-BC59-53159013B498}|DiscordBot\\DiscordBot.csproj|c:\\users\\kaise\\source\\repos\\discordbot\\discordbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D6E0034-1094-4A1A-BC59-53159013B498}|DiscordBot\\DiscordBot.csproj|solutionrelative:discordbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaise\\OneDrive\\Desktop\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D6E0034-1094-4A1A-BC59-53159013B498}|DiscordBot\\DiscordBot.csproj|c:\\users\\kaise\\source\\repos\\discordbot\\discordbot\\configs\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D6E0034-1094-4A1A-BC59-53159013B498}|DiscordBot\\DiscordBot.csproj|solutionrelative:discordbot\\configs\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,17 +21,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kaise\\source\\repos\\DiscordBot\\DiscordBot\\Program.cs",
               "RelativeDocumentMoniker": "DiscordBot\\Program.cs",
               "ToolTip": "C:\\Users\\kaise\\source\\repos\\DiscordBot\\DiscordBot\\Program.cs",
               "RelativeToolTip": "DiscordBot\\Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAADwv0AAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAADwvzoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T16:59:04.546Z",
               "IsPinned": true,
@@ -39,26 +39,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "config.json",
               "DocumentMoniker": "C:\\Users\\kaise\\OneDrive\\Desktop\\config.json",
               "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Desktop\\config.json",
               "ToolTip": "C:\\Users\\kaise\\OneDrive\\Desktop\\config.json",
               "RelativeToolTip": "..\\..\\..\\OneDrive\\Desktop\\config.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-01T02:31:46.33Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "commands.cs",
               "DocumentMoniker": "C:\\Users\\kaise\\source\\repos\\DiscordBot\\DiscordBot\\configs\\commands.cs",
               "RelativeDocumentMoniker": "DiscordBot\\configs\\commands.cs",
               "ToolTip": "C:\\Users\\kaise\\source\\repos\\DiscordBot\\DiscordBot\\configs\\commands.cs",
               "RelativeToolTip": "DiscordBot\\configs\\commands.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAkwGUAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAIwGUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T17:27:42.965Z",
               "EditorCaption": ""
