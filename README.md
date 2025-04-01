@@ -1,6 +1,7 @@
 # Gem Minai
 
-![Project Banner](https://via.placeholder.com/1000x300.png?text=Project+Banner)
+![Project Banner](https://github.com/user-attachments/assets/7a2c2178-7d02-48c9-b0d7-31e6970b27d1)
+
 
 ## 📌 About
 Gem Minai is a Discord Bot Hoster with Gemini AI API Integrated.
