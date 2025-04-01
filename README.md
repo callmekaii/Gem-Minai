@@ -24,7 +24,7 @@ Gem Minai is a Discord Bot Hoster with Gemini AI API Integrated.
 - **C#**
 - **[DSharpPlus](https://github.com/DSharpPlus/DSharpPlus)**
 - **Gemini API**
-- - **[Google GenerativeAI (Gemini)](https://github.com/gunpal5/Google_GenerativeAI)**
+- **[Google GenerativeAI (Gemini)](https://github.com/gunpal5/Google_GenerativeAI)**
 
 ## 🤝 Contributing
 Contributions are welcome! Follow these steps:
