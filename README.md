@@ -1,6 +1,7 @@
 # Gem-Minai
 
-![Gem Minai](https://github.com/user-attachments/assets/59f1c66a-f449-4dd4-a8dc-328869a3901c)
+![Gem Minai](https://github.com/user-attachments/assets/cf4df805-1c33-40a8-8ac4-527a8f027c53)
+
 
 ## 📌 About
 Gem Minai is a Discord Bot Hoster with Gemini AI API Integrated.
