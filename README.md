@@ -4,7 +4,7 @@
 
 
 ## 📌 About
-Gem Minai is a Discord Bot Hoster with Gemini AI API Integrated.
+Gem Minai is an AI Discord Bot Hoster with Gemini AI API Integrated.
 
 ## 🚀 Features
 
