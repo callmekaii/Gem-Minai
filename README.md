@@ -1,4 +1,4 @@
-# Gem Minai
+# Gem-Minai
 
 ![Gem Minai](https://github.com/user-attachments/assets/59f1c66a-f449-4dd4-a8dc-328869a3901c)
 
