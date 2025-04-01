@@ -48,9 +48,9 @@ Gem Minai is an AI Discord Bot Hoster with Gemini AI API Integrated.
 3. **Configure the Bot:**
 
    - Run the bot for the first time at:
-   ```sh
-   DiscordBot\DiscordBot\bin\Release\DiscordBot.exe
-   ```
+      ```sh
+      DiscordBot\DiscordBot\bin\Release\DiscordBot.exe
+      ```
    - Enter the **Discord Token** and **Google API Key** when prompted.
    - The configuration will be saved in `config.json`.
 
