@@ -33,11 +33,3 @@ Contributions are welcome! Follow these steps:
 4. Push to your branch (`git push origin feature-name`)
 5. Open a Pull Request
 
-## 📝 License
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
-## 📩 Contact
-For questions or feedback, reach out:
-- Email: your-email@example.com
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- GitHub: [your-username](https://github.com/your-username)
