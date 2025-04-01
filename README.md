@@ -3,10 +3,10 @@
 ![Gem Minai](https://github.com/user-attachments/assets/cf4df805-1c33-40a8-8ac4-527a8f027c53)
 
 
-## 📌 About
+## About
 Gem Minai is an AI Discord Bot Hoster with Gemini AI API Integrated.
 
-## 🚀 Features
+## Features
 
 - AI-powered responses using Gemini API
 - Interactive Discord bot commands
@@ -27,7 +27,7 @@ Gem Minai is an AI Discord Bot Hoster with Gemini AI API Integrated.
    ```sh
    DiscordBot.exe
    ```
-## 📖 Usage
+## Usage
 
 ### Setting Up the Bot
 
@@ -68,13 +68,13 @@ Gem Minai is an AI Discord Bot Hoster with Gemini AI API Integrated.
 
 - `/Hug` - Sends a hug image.
 
-## 🛠️ Language and Libraries Used
+## Language and Libraries Used
 - **C#**
 - **[DSharpPlus](https://github.com/DSharpPlus/DSharpPlus)**
 - **Gemini API**
 - **[Google GenerativeAI (Gemini)](https://github.com/gunpal5/Google_GenerativeAI)**
 
-## 🤝 Contributing
+## Contributing
 Contributions are welcome! Follow these steps:
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature-name`)
