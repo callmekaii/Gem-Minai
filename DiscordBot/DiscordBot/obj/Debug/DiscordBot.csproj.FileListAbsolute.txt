@@ -59,3 +59,7 @@ C:\Users\kaise\source\repos\DiscordBot\DiscordBot\bin\Debug\System.Text.Json.xml
 C:\Users\kaise\source\repos\DiscordBot\DiscordBot\bin\Debug\System.ValueTuple.xml
 C:\Users\kaise\source\repos\DiscordBot\DiscordBot\bin\Debug\DSharpPlus.SlashCommands.dll
 C:\Users\kaise\source\repos\DiscordBot\DiscordBot\bin\Debug\DSharpPlus.SlashCommands.xml
+C:\Users\kaise\source\repos\DiscordBot\DiscordBot\bin\Debug\DiscordBot.exe.manifest
+C:\Users\kaise\source\repos\DiscordBot\DiscordBot\bin\Debug\DiscordBot.application
+C:\Users\kaise\source\repos\DiscordBot\DiscordBot\obj\Debug\DiscordBot.exe.manifest
+C:\Users\kaise\source\repos\DiscordBot\DiscordBot\obj\Debug\DiscordBot.application
